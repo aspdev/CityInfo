@@ -1,0 +1,11 @@
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.deps.json
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.runtimeconfig.json
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.dll
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\bin\Debug\netcoreapp2.0\CityInfo.Api.pdb
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.dll
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.pdb
+C:\Users\Łukasz\source\repos\CityInfo\CityInfo.Api\obj\Debug\netcoreapp2.0\CityInfo.Api.csprojAssemblyReference.cache
